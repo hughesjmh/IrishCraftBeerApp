@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Locavore Blonde",
+        "image": "images/locavoreBlonde.jpg",
+        "brewery": "Wicklow Wolf Brewing Co.",
+        "location": "Wicklow",
+        "description": "This beer is made using all Irish ingredients. We start with a grain bill of 100% Irish Ale Malt from Malting Company of Ireland.  The beer is hopped using all of our own hops grown in Roundwood This years batch has a blend of Cascade, Perle, Nugget, and Prima Dona. The hops are added late in the boil to capture the subtle flavor and aromas from the hops. As this is a special harvest ale, the beer will never taste the same from year to year, as we plant newer varieties of hops and the harvest yeilds increase the brews will be unique every time.",
+        "style": "Blonde Ale",
+        "rating": "5"
+    },
+    {
+        "name": "Galway Hooker",
+        "image": "images/galwayHooker.jpg",
+        "brewery": "Galway Hooker",
+        "location": "Galway",
+        "description": "Galway Hooker Irish Pale Ale is the brewery's flagship product and is brewed in 650 litre batches. The beer is similar to traditional Pale Ales such as that brewed by the Sierra Nevada Brewing Company in the USA, but has an added taste of caramel similar to an Irish red beer. It is made from mainly pearl and crystal malt and Saaz and cascade hops. It has a bitterness of 35 IBUs and is 4.3% alcohol by volume.",
+        "style": "IPA",
+        "rating": "4"
+    },
+    {
+        "name": "The Full Irish",
+        "image": "images/theFullIrish.jpg",
+        "brewery": "Eight Degrees Brewing",
+        "location": "Dublin",
+        "description": "Colour/appearance: pours a pale gold colour, with lovely white head. Medium carbonation. \n Aroma: lots of hops! It’s a hop bomb with citrus and floral characters, grapefruit at the fore with hints of lime, melon and lychees. \n Flavour: hoppy fruit with a biscuity malt body. \n Aftertaste: rounded bitterness that cleanses the palate with a lingering sweetness from the single malt, preparing the palate for the next sip.",
+        "style": "Single Malt IPA",
+        "rating": "4.5"
+    },
+    {
+        "name": "Friar Weisse",
+        "image": "images/friarWeisse.jpg",
+        "brewery": "The Franciscan Well",
+        "location": "Cork",
+        "description": "A German style unfiltered wheat beer with citrus notes on the palate and powerful aroma of clove and banana imparted by a unique yeast strain.",
+        "style": "German Hefeweizen",
+        "rating": "3"
+    },
+    {
+        "name": "Rebel Red",
+        "image": "images/rebelRed.jpg",
+        "brewery": "The Franciscan Well",
+        "location": "Cork",
+        "description": "A robust amber ale with a distinct caramel flavor imparted by crystal malt and balanced by the hop varieties challenger and fuggles.",
+        "style": "Red Ale",
+        "rating": "4"
+    },
+    {
+        "name": "O'Hara's Stout",
+        "image": "images/oharasStout.jpeg",
+        "brewery": "O'Hara's",
+        "location": "Dublin",
+        "description": "O’Hara’s Irish Stout has a robust roast flavour complemented by a full-bodied and smooth mouth feel. The generous addition of Fuggle hops lends a tart bitterness to the dry espresso-like finish. This sessionable stout beer is filled with rich complex coffee aromas mingled with light liquorice notes. The combination of traditional stout hops with an extra pinch of roast barley allows us to stay true to Irish tradition, recreating a taste so often yearned for by stout drinkers.",
+        "style": "Stout",
+        "rating": "4"
+    }
+]

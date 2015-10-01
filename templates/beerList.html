@@ -1,0 +1,23 @@
+
+
+<div class="container beersDiv">
+    
+    <h1 class="lobsterFont">Beer List</h1>
+        <br/>
+    <div class="container beer-list col-sm-6">
+        
+        <div class="row">
+                <img ui-sref=".id({ id : $index})" 
+                     ng-repeat="beer in beers" 
+                     class="beerImage thumbnail col-xs-1" 
+                     ng-src='{{beer.image}}'/>
+        </div>
+    </div>
+
+    <div class='container beer-details col-sm-6'> 
+        <div ui-view></div>
+    </div>
+    
+</div>
+
+
